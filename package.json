@@ -1,0 +1,27 @@
+{
+  "name": "sp-static",
+  "version": "1.0.0",
+  "description": "SP Static",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/august25/sp-static"
+  },
+  "keywords": [
+    "sp",
+    "static",
+    "library",
+    "binary",
+    "binaries",
+    "mac",
+    "linux",
+    "windows"
+  ],
+  "author": "Vinh Nguyen <vinh.n@hotmail.com>",
+  "bugs": {
+    "url": "https://github.com/august25/sp-static/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
